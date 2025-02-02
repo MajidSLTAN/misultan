@@ -1,5 +1,5 @@
 numpy>=1.26.0
-speechrecognition
+speechrecognition==3.10.0
 tensorflow>=2.16.0
 opencv-python==4.8.0.76
 gtts==2.4.0
